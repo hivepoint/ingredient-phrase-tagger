@@ -1,0 +1,62 @@
+[
+    {
+        "comment": "possible", 
+        "name": "carrots", 
+        "qty": "1", 
+        "other": ", young ones if", 
+        "input": "1 pound carrots, young ones if possible", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>carrots</span><span class='other'>, young ones if</span><span class='comment'>possible</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "Kosher to taste", 
+        "input": "Kosher salt, to taste", 
+        "other": ",", 
+        "name": "salt", 
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "input": "2 tablespoons sherry vinegar", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sherry vinegar</span>", 
+        "name": "sherry vinegar", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "2 tablespoons honey", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>honey</span>", 
+        "name": "honey", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "extra-virgin", 
+        "name": "olive oil", 
+        "qty": "2", 
+        "input": "2 tablespoons extra-virgin olive oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "medium-size, peeled and finely diced", 
+        "input": "1 medium-size shallot, peeled and finely diced", 
+        "display": "<span class='qty'>1</span><span class='comment'>medium-size</span><span class='name'>shallot</span><span class='comment'>, peeled and finely diced</span>", 
+        "name": "shallot", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "fresh, finely chopped", 
+        "name": "thyme leaves", 
+        "other": "1/2", 
+        "input": "1/2 teaspoon fresh thyme leaves, finely chopped", 
+        "display": "<span class='other'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>thyme leaves</span><span class='comment'>, finely chopped</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "Black pepper, to taste", 
+        "other": ",", 
+        "name": "Black pepper", 
+        "display": "<span class='name'>Black pepper</span><span class='other'>,</span><span class='comment'>to taste</span>"
+    }
+]
